@@ -14,18 +14,15 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-> Edit this section to match the tools you actually use
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -39,28 +36,34 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
+
+  <!-- Stats card with radical theme -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ikechiamaka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
-    alt="ikechiamaka's GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikechiamaka&theme=radical"
+    alt="Ikechiamaka's GitHub Stats"
     height="180"
   />
+
+  <!-- Most used languages card with same theme -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikechiamaka&theme=vue-dark&layout=compact&hide_border=true"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikechiamaka&theme=radical"
+    alt="Top Languages by Repo"
     height="180"
   />
+
 </p>
+
+
+
 
 ---
 
 ### 🤝 Let’s Connect
 
 - 📧 Email: **[ikechiamakaebenezer@gmail.com](mailto:ikechiamakaebenezer@gmail.com)**  
-- 💼 LinkedIn: [Ebenezer-ikechiamaka](www.linkedin.com/in/ebenezer-ikechiamaka) -->
-- 🐦 Twitter: [@ikechiamaka](https://twitter.com/@haezerlabs) -->
+- 💼 LinkedIn: [Ebenezer-ikechiamaka](www.linkedin.com/in/ebenezer-ikechiamaka)
+- 🐦 Twitter: [@ikechiamaka](https://twitter.com/@haezerlabs)
 
 <!---
 ikechiamaka/ikechiamaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
