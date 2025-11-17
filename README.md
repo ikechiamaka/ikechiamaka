@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Ikechiamaka</h1>
-<h3 align="center">Aspiring Data Scientist & AI / Machine Learning Enthusiast</h3>
+<h3 align="center">Data Scientist & AI / Machine Learning Enthusiast</h3>
 
 ---
 
@@ -31,7 +31,7 @@
 
 - 🔢 Statistics & probability for ML  
 - 📊 Data wrangling and visualization  
-- 🤖 Supervised & unsupervised learning  
+- 🤖 Supervised & unsupervised learning/Reinforcement Learning  
 - 🧠 Building small end-to-end ML projects  
 
 ---
