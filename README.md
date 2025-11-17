@@ -36,34 +36,46 @@
 
 ---
 
-<p align="center">
+### 📊 GitHub Analytics & Rating
 
-  <!-- Stats card with radical theme -->
+<!-- Full-width profile details card -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikechiamaka&theme=radical"
+    alt="Ikechiamaka's GitHub Profile Details"
+  />
+</p>
+
+<!-- Summary cards (stats + most used languages) -->
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikechiamaka&theme=radical"
     alt="Ikechiamaka's GitHub Stats"
     height="180"
   />
-
-  <!-- Most used languages card with same theme -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikechiamaka&theme=radical"
     alt="Top Languages by Repo"
     height="180"
   />
-
 </p>
 
-
-
+<!-- A/B/C style rating card from GitHub Readme Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ikechiamaka&show_icons=true&theme=radical"
+    alt="GitHub Stats & Global Rank (A–C rating)"
+    height="180"
+  />
+</p>
 
 ---
 
 ### 🤝 Let’s Connect
 
 - 📧 Email: **[ikechiamakaebenezer@gmail.com](mailto:ikechiamakaebenezer@gmail.com)**  
-- 💼 LinkedIn: [Ebenezer-ikechiamaka](www.linkedin.com/in/ebenezer-ikechiamaka)
-- 🐦 Twitter: [@ikechiamaka](https://twitter.com/@haezerlabs)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ebenezer-ikechiamaka](https://www.linkedin.com/in/ebenezer-ikechiamaka)  
+- 🐦 Twitter: [https://twitter.com/haezerlabs](https://twitter.com/haezerlabs)
 
 <!---
 ikechiamaka/ikechiamaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
